@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "arquitetura-componentes",
+    "slug": "arquitetura-componentes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "arquitetura-componentes"
+}
